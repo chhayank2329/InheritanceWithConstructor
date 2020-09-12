@@ -18,6 +18,7 @@ public class Main {
         String person_gender = scan.next();
 
         Grand_Child gc = new Grand_Child(person_name, person_age, person_gender);
+        gc.show_name();
 
 
     }
