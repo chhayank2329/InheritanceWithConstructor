@@ -19,6 +19,7 @@ public class Main {
 
         Grand_Child gc = new Grand_Child(person_name, person_age, person_gender);
         gc.show_name();
+        gc.show_age();
 
 
     }
