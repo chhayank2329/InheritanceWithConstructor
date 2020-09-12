@@ -9,7 +9,7 @@ public class Grand_Child extends Child{
         gender=g;
     }
     public void show_gender(){
-        System.out.println("Gender is"+gender);
+        System.out.println("Gender is :" + gender);
     }
 
 }
