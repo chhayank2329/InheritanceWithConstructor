@@ -1,7 +1,6 @@
 package InheritanceWithConstructor;
 
 import java.util.Scanner;
-import java.lang.String;
 // Multi Level Inheritance
 // Multi Level Inheritance
 // Multi Level Inheritance
@@ -16,6 +15,7 @@ public class Main {
         System.out.println("Enter Your Age");
         int person_age=scan.nextInt();
         System.out.println("Enter Your Gender");
+        String person_gender = scan.next();
 
 
     }
